@@ -1,1 +1,1 @@
-# Miningscript-x11-
+# Miningscript-x11-algorithm
