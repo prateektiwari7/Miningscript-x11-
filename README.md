@@ -1,6 +1,7 @@
 # Miningscript-x11-algorithm <br />
 
 ``
- Type in cmd and run 
+ 
+ Start cmd
  node mainblock.js
 ``
