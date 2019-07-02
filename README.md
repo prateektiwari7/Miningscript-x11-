@@ -1,3 +1,5 @@
 # Miningscript-x11-algorithm <br />
 
-run : node mainblock.js
+``
+ node mainblock.js
+``
